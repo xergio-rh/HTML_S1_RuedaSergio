@@ -7,3 +7,6 @@
 |[DIA 1](https://github.com/xergio-rh/HTML_S1_RuedaSergio/tree/master/Dia%201)| Se realizo introduccion a HTML y CSS       |
 |[DIA 2](https://github.com/xergio-rh/HTML_S1_RuedaSergio/tree/master/Dia%202)| Desarrollo y entrega actividad Hoja de vida|
 |[DIA 3](https://github.com/xergio-rh/HTML_S1_RuedaSergio/tree/master/Dia%203)|...                                         |
+
+
+## Desarrollado por: Sergio Rueda / T.I: 1.097.101.293
