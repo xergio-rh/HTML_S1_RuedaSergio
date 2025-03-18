@@ -1,0 +1,101 @@
+body {
+    width: 1920px;
+    height: 1080px;
+    background-image: linear-gradient(#FFFFFF,#E6E6E6,#808080);
+    display: grid;
+}
+
+.tarjetaMetro {
+    position: relative;
+    width: 1400px;
+    height: 800px;
+    background-color: #FFFFFF;
+    border: 1px solid #707070;
+    place-self: center;
+
+}
+
+.cuadroNegro {
+    position: absolute;
+    width: 110px;
+    height: 800px;
+    background-color: #212020;
+    right: 0px;
+}
+
+.Logo {
+    position: absolute;
+    width: 196px;
+    height: 44px;
+    top: 43px;
+    left: 43px;
+}
+
+.tarjetaMetrolinea {
+    position: absolute;
+    width: 884px;
+    height: 497px;
+    top: 122px;
+    left: 127px;
+    right: 389px;
+
+}
+
+.cuadroVerde {
+    position: absolute;
+    width: 160px;
+    height: 114px;
+    background-color: #D5FF43;
+    top: 647px;
+    right: 160px;
+
+}
+
+.logoMini {
+    position: absolute;
+    width: 129px;
+    height: 29px;
+    top: 29px;
+    right: 16px;
+}
+
+.carrito {
+    position: absolute;
+    width: 33px;
+    height: 32px;
+    top: 51.5px;
+    right: 143.33px;
+}
+
+.lupa {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 51.75px;
+    right: 249.3px;
+
+
+}
+
+.flecha_arriba {
+    position: absolute;
+    width: 24px;
+    height: 14px;
+    top: 40px;
+    right: 43.2px;
+
+}
+
+.flecha_abajo {
+    position: absolute;
+    width: 24px;
+    height: 14px;
+    right: 43.2px;
+    top: 746px;
+}
+
+@font-face {
+    font-family: "Semibold";
+    src: url("./tipografia/OpenSans_Condensed-SemiBoldItalic.ttf");
+}
+
