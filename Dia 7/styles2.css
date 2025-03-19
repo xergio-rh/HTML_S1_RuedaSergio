@@ -31,40 +31,13 @@ body {
     left: 43px;
 }
 
-.tarjetaMetrolinea {
+.tarjetaImg {
     position: absolute;
-    width: 884px;
-    height: 497px;
-    top: 122px;
-    left: 127px;
-    right: 389px;
+    width: 576px;
+    height: 324px;
+    top: 103px;
+    right: 465px;
 
-}
-
-.cuadroVerde {
-    position: absolute;
-    width: 160px;
-    height: 114px;
-    background-color: #D5FF43;
-    top: 647px;
-    right: 160px;
-
-}
-
-.logoMini {
-    position: absolute;
-    width: 129px;
-    height: 29px;
-    top: 29px;
-    right: 16px;
-}
-
-.carrito {
-    position: absolute;
-    width: 33px;
-    height: 32px;
-    top: 51.5px;
-    right: 143.33px;
 }
 
 .lupa {
@@ -77,23 +50,13 @@ body {
 
 }
 
-.flecha_arriba {
+.carrito {
     position: absolute;
-    width: 24px;
-    height: 14px;
-    top: 40px;
-    right: 43.2px;
-
+    width: 33px;
+    height: 32px;
+    top: 51.5px;
+    right: 143.33px;
 }
-
-.flecha_abajo {
-    position: absolute;
-    width: 24px;
-    height: 14px;
-    right: 43.2px;
-    top: 746px;
-}
-
 
 @font-face {
     font-family:"semibold" ;
@@ -103,27 +66,6 @@ body {
 @font-face {
     font-family:"regular" ;
     src: url("./tipografia/OpenSans-Regular.ttf");
-}
-
-.textoSaldo{
-    font-family: "semibold";
-    font-size: 40px;
-    position: absolute;
-    top: 610px;
-    left: 58px;
-    width: 800px;
-    height: 55px;
-}
-
-.saldoCOP {
-    font-family: "semibold";
-    position: absolute;
-    font-size: 27px;
-    width: 150px;
-    height: 37px;
-    top: 700px;
-    left: 57px;
-
 }
 
 .comprarTarjeta {
@@ -148,7 +90,25 @@ body {
 
 }
 
-.comprar {
+.cuadroVerde {
+    position: absolute;
+    width: 160px;
+    height: 114px;
+    background-color: #D5FF43;
+    top: 647px;
+    right: 160px;
+
+}
+
+.logoMini {
+    position: absolute;
+    width: 129px;
+    height: 29px;
+    top: 29px;
+    right: 16px;
+}
+
+.recargar {
     font-family: "semibold";
     position: absolute;
     font-size: 26px;
@@ -158,15 +118,19 @@ body {
     right: 24px;
 }
 
-.cantidad {
-    font-family: "regular";
+.flecha_arriba {
     position: absolute;
-    color: #FFFFFF;
-    font-size: 20px;
-    width: 84px;
-    height: 27px;
-    top: 149px;
-    right: 13px;
+    width: 24px;
+    height: 14px;
+    top: 40px;
+    right: 43.2px;
 
+}
 
+.flecha_abajo {
+    position: absolute;
+    width: 24px;
+    height: 14px;
+    right: 43.2px;
+    top: 746px;
 }
