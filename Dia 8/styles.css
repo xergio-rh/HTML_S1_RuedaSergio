@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "titulos";
+    src: url(./tipografias/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "subtitulos";
+    src: url(./tipografias/Barlow-Bold.ttf);
+}
+
+@font-face {
+    font-family: "texto";
+    src: url(./tipografias/OpenSauceOne-SemiBold.ttf);
+}
+
+body {
+    background-color: black;
+}
+
+
+.title {
+    position: absolute;
+    font-family: "titulos";
+    font-size: 120px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    left: 900px;
+    font-weight: 700;
+    top: 150px; 
+    
+}
+
+.primera {
+    position: absolute;
+    width: 700px;
+    height: auto;
+    top: 600px;
+    left: 1050px;
+}
+
+.tittle {
+    position: absolute;
+    font-family: "titulos";
+    font-size: 120px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-weight: 700;
+    left: 825px;
+    top: 1300px;
+}
+
+.shopNow {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    background-color: rgb(180, 142, 45);
+    left: 1310px;
+    top: 1680px;
+}
+
+.now {
+    position: absolute;
+    
+}

@@ -170,3 +170,21 @@ body {
 
 
 }
+
+.menuNegro {
+    position: absolute;
+    font-family: "regular";
+    width: 23px;
+    height: 187px;
+    right: 47px;
+    top: 307px;
+
+}
+
+.lineaL {
+    position: absolute;
+    width: 146px;
+    height: 2px;
+    left: 740.5px;
+    top: 102.5px;
+}

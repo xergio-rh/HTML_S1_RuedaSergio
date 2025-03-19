@@ -21,6 +21,7 @@ body {
     height: 800px;
     background-color: #212020;
     right: 0px;
+    top: 0px;
 }
 
 .Logo {
@@ -133,4 +134,117 @@ body {
     height: 14px;
     right: 43.2px;
     top: 746px;
+}
+
+.valor {
+    font-family: "regular";
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 20px;
+    width: 84px;
+    height: 27px;
+    top: 149px;
+    right: 0px;
+
+
+}
+
+.lineaL {
+    position: absolute;
+    width: 84px;
+    height: 2px;
+    left: 995.75px;
+    top: 102.5px;
+}
+
+.pepito {
+    font-family: "semibold";
+    position: absolute;
+    width: 700px;
+    height: 55px;
+    top: 400px;
+    left: 301px;
+    font-size: 40px;
+}
+
+.sado {
+    position: absolute;
+    font-family: "semibold";
+    width: 350px;
+    height: 37px;
+    font-size: 27px;
+    top: 477px;
+    left: 483px;
+
+}
+
+.escogido {
+    position: absolute;
+    font-family: "semibold";
+    width: 200px;
+    height: 37px;
+    font-size: 27px;
+    top: 544px;
+    left: 539px;
+
+}
+
+.cuadroSaldo {
+    position: absolute;
+    width: 288px;
+    height: 58px;
+    top: 630px;
+    left: 495px;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.total {
+    font-family: "semibold";
+    position: absolute;
+    width: 77px;
+    height: 37px;
+    font-size: 27px;
+    top: -15px;
+    left: 104px;
+    opacity: 50%;
+    
+
+}
+
+.primero {
+    font-family: "regular";
+    position: absolute;
+    width: 57px;
+    height: 27px;
+    font-size: 20px;
+    top: 307px;
+    left: 27px;
+    opacity: 100%;
+    color: #FFFFFF80;
+}
+
+.segundo {
+    font-family: "regular";
+    position: absolute;
+    width: 57px;
+    height: 27px;
+    font-size: 20px;
+    top: 387px;
+    left: 27px;
+    opacity: 100%;
+    color: #FFFFFF;
+}
+
+.tercero {
+    font-family: "regular";
+    position: absolute;
+    width: 57px;
+    height: 27px;
+    font-size: 20px;
+    top: 467px;
+    left: 27px;
+    opacity: 100%;
+    color: #FFFFFF80;
 }
