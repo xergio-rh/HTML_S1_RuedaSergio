@@ -1,0 +1,20 @@
+.fondo{
+    position: relative;
+    width: 7380px;
+    height: 3700px;
+}
+
+.sol {
+    position: absolute;
+    width: 1000px;
+    height: 800px;
+    top: 0px;
+}
+
+.nube {
+    position: absolute;
+    width: 1400px;
+    height: 1000px;
+    top: 0px;
+    left: 600px;
+}
