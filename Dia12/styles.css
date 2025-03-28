@@ -1,3 +1,9 @@
+body {
+    width: 1080px;
+    height: 1920px;
+
+}
+
 .fondo{
     position: relative;
     width: 7380px;
@@ -11,10 +17,19 @@
     top: 0px;
 }
 
+
+
 .nube {
     position: absolute;
     width: 1400px;
     height: 1000px;
     top: 0px;
     left: 600px;
+    background: url(./images/nube-removebg-preview.png);
+    animation: salir .-10s steps(6) infinite;
+}
+
+@keyframes salir {
+    from {background-position: 0px;}
+    to {background-position: 600px;}
 }
